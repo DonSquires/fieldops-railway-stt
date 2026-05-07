@@ -14,3 +14,5 @@ Health check:
 ```bash
 curl http://localhost:8080/health
 ```
+
+Deployed on Railway from the `main` branch.
